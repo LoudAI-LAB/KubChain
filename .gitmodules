@@ -1,0 +1,6 @@
+[submodule "packages/flowise-embed-react"]
+	path = packages/flowise-embed-react
+	url = https://github.com/kubwai/Flowise.git
+[submodule "packages/flowise-embed"]
+	path = packages/flowise-embed
+	url = https://github.com/kubwai/Flowise.git
